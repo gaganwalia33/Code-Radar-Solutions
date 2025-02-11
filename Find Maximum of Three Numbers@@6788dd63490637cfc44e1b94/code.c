@@ -9,5 +9,6 @@ int main()
     }
     else if(b>a && b>c)
     printf("%d",b);
-    elseprintf("%d",c);
+    else
+    printf("%d",c);
 }

@@ -7,15 +7,15 @@ int main()
     {
         printf("A");
     }
-    else if(80<=ch<90)
+    else if(ch>=80)
     {
         printf("B");
     }
-    else if(70<=ch<80)
+    else if(ch>=70)
     {
         printf("C");
     }
-    else if(60<=ch<70)
+    else if(ch>=60)
     {
         printf("D");
     }

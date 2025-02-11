@@ -11,15 +11,15 @@ int main()
     {
         printf("B");
     }
-    if(70<=ch<80)
+    else if(70<=ch<80)
     {
         printf("C");
     }
-    if(60<=ch<70)
+    else if(60<=ch<70)
     {
         printf("D");
     }
-    if(ch<60)
+    else if(ch<60)
     {
         printf("F");
     }

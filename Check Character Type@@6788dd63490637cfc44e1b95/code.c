@@ -9,7 +9,7 @@ int main()
     }
     else if(ch>='a' && ch<='z')
     {
-    printf("consonant");
+    printf("Consonant");
     }
     else if(ch>=1 && ch <=9)
     {

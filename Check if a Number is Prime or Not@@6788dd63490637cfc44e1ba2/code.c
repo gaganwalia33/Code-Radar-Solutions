@@ -7,11 +7,11 @@ int main()
     {
         if(a%i==0)
         {
-        b=0;
+        b=1;
         break;
     }
     }
-    if(b==1)
+    if(b==0)
     {
         printf("Prime");
     }

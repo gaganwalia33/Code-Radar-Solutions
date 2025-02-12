@@ -5,11 +5,11 @@ int main()
     scanf("%d",&a);
     if(a>=18)
     {
-        printf("eligible");
+        printf("Eligible");
     }
     else
     {
-        printf("Not eligible");
+        printf("Not Eligible");
     }
 
 }

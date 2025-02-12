@@ -7,8 +7,7 @@ int main()
     {
         if(a%i==0)
         b=0;
-        
-
+        break;
     }
    
     if(b==1)

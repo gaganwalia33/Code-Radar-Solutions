@@ -7,3 +7,4 @@ int main()
     {
         printf("Divisible by Both");
     }
+}

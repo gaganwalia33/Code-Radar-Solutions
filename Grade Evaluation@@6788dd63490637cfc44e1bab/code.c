@@ -18,12 +18,12 @@ int main()
         
         printf("Average");
     }
-    else if(n='D')
+    else if(n=='D')
     {
         
         printf("Below Average");
     }
-    else if(n='E')
+    else if(n=='E')
     {
         
         printf("Fail");

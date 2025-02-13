@@ -8,7 +8,7 @@ int main()
         
         printf("Excellent");
     }
-    else if(n='B')
+    else if(n=='B')
     {
         
         printf("Good");

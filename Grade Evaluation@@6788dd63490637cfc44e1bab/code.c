@@ -23,7 +23,7 @@ int main()
         
         printf("Below Average");
     }
-    else if(n=='E')
+    else if(n=='F')
     {
         
         printf("Fail");

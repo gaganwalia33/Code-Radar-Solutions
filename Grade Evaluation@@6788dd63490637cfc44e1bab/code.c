@@ -8,11 +8,6 @@ int main()
         
         printf("Excellent");
     }
-    else if(n='A')
-    {
-        
-        printf("Excellent");
-    }
     else if(n='B')
     {
         

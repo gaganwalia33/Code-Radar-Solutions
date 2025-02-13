@@ -3,17 +3,17 @@ int main()
 {
     int n;
     scanf("%c",&n);
-    if(n='A')
+    if(n=='A')
     {
         
         printf("Excellent");
     }
-    else if(n='B')
+    else if(n=='B')
     {
         
         printf("Good");
     }
-    else if(n='C')
+    else if(n=='C')
     {
         
         printf("Average");

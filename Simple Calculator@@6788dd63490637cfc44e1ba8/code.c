@@ -15,4 +15,6 @@ int main()
     case '/':
         printf("%d",a/b);
     }
+    default:
+    printf("Invalid operator");
 }

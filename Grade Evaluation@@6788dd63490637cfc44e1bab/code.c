@@ -8,27 +8,27 @@ int main()
         
         printf("Excellent");
     }
-    else if(n=='A')
+    else if(n='A')
     {
         
         printf("Excellent");
     }
-    else if(n=='B')
+    else if(n='B')
     {
         
         printf("Good");
     }
-    else if(n=='C')
+    else if(n='C')
     {
         
         printf("Average");
     }
-    else if(n=='D')
+    else if(n='D')
     {
         
         printf("Below Average");
     }
-    else if(n=='E')
+    else if(n='E')
     {
         
         printf("Fail");

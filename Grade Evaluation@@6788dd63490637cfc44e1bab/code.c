@@ -2,13 +2,13 @@
 int main()
 {
     int n;
-    scanf("%d",&n);
+    scanf("%c",&n);
     if(n='A')
     {
         
         printf("Excellent");
     }
-    else if(n=='B')
+    else if(n='B')
     {
         
         printf("Good");

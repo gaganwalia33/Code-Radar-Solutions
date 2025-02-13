@@ -5,6 +5,6 @@ int main()
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
-        printf("\t%d",i);
+        printf("%d ",i);
     }
 }

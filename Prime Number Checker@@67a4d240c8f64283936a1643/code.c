@@ -9,7 +9,7 @@ int isprime(int n) {
 }
 
 int main() {
-    int t, num;
+    int t, num,isprime;
     scanf("%d", &t);
     while (t--) {
         scanf("%d", &num);

@@ -11,7 +11,7 @@ int main()
         }
         while(k!=2*i-1)
         {
-            printf("%d",j);
+            printf("%d",i);
             k++;
         }
         printf("\n");

@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,i,j,k=0;
+    int n,i,j,k=0,a;
     scanf("%d",&n);
     for(i=1;i<=n;i++,k=0)
     {
@@ -11,7 +11,7 @@ int main()
         }
         while(k!=2*i-1)
         {
-            printf("%d ",j);
+            printf("%d ",a);
             k++;
         }
         printf("\n");

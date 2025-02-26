@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+{
 int rows,i,j;
 scanf("%d",&rows);
  for (int i = 0; i < rows; i++) {
@@ -8,3 +9,4 @@ scanf("%d",&rows);
  }
  printf("\n");
  }
+}

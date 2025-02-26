@@ -1,12 +1,10 @@
 #include <stdio.h>
-
-// Function to check if a number is prime
 int isPrime(int num) {
-    if (num < 2) return 0; // Numbers < 2 are not prime
+    if (num < 2) return 0; 
     for (int i = 2; i * i <= num; i++) {
-        if (num % i == 0) return 0; // Not prime
+        if (num % i == 0) return 0; 
     }
-    return 1; // Prime
+    return 1; 
 }
 
 int main() {

@@ -1,12 +1,18 @@
 #include <stdio.h>
 int main()
 {
-int rows,i,j;
-scanf("%d",&rows);
- for (int i = 0; i < rows; i++) {
- for (int j = 0; j < rows - i; j++) {
- printf("%c ", 'A' + j);
- }
- printf("\n");
- }
+    int n,i,j;
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        for(j=1;j<=n-i;j++)
+        {
+            printf(" ");
+        }
+        for(j=1;j<=i;j++)
+        {
+            printf("%c ",'A'+j);
+        }
+        printf("\n");
+    }
 }

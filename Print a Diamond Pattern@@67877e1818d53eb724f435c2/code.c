@@ -16,7 +16,7 @@ int main()
         }
         printf("\n");
     }
-     for(i=n;i>=1;i--,k=0)
+     for(i=n-1;i>=1;i--,k=0)
     {
         for(j=n-i;j>=1;j--)
         {
